@@ -2,7 +2,7 @@
 
 > *“In a world of evolving threats, proactive defense is the only constant.”*
 
-I am a lifelong learner and cybersecurity professional passionate about tackling complex challenges through hands-on implementation. From **vulnerability management** to **threat detection**, my portfolio reflects a deep dive into the technical operations that keep organizations secure.
+I am a lifelong learner and cybersecurity enthusiast passionate about tackling complex challenges through hands-on implementation. From **vulnerability management** to **threat detection**, my portfolio reflects a deep dive into the technical operations that keep organizations secure.
 
 ## ⚠️ Vulnerability Management Projects
 
