@@ -1,16 +1,23 @@
-## Hi there 👋
+# <a href="https://www.linkedin.com/in/kevintyamamae/">Kevin T Yamamae</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-<!--
-**Ryuugiri44/Ryuugiri44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *“In a world of evolving threats, proactive defense is the only constant.”*
 
-Here are some ideas to get you started:
+I am a lifelong learner and cybersecurity professional passionate about tackling complex challenges through hands-on implementation. From **vulnerability management** to **threat detection**, my portfolio reflects a deep dive into the technical operations that keep organizations secure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+<hr/>
+
+## 🤳 Connect With Me
+
+[<img align="left" alt="Kevin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/kevintyamamae/
+
