@@ -4,6 +4,8 @@
 
 I am a lifelong learner and cybersecurity enthusiast passionate about tackling complex challenges through hands-on implementation. From **vulnerability management** to **threat detection**, my portfolio reflects a deep dive into the technical operations that keep organizations secure.
 
+Credit: The Cyber Range by Josh Madakor and LOG(N) Pacific
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Ryuugiri44/Vulnerability-management-program)**
