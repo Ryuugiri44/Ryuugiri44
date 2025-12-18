@@ -7,7 +7,7 @@ I am a lifelong learner and cybersecurity enthusiast passionate about tackling c
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Ryuugiri44/Vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Ryuugiri44/programmatic-vulnerability-remediations/)**
 
 ## 🚨 Threat Hunting and Security Operations
 
