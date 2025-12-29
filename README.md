@@ -13,7 +13,7 @@ Credit: The Cyber Range by Josh Madakor and LOG(N) Pacific
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Ryuugiri44/threat-hunting-scenario/tree/main)**
 
 <hr/>
 
